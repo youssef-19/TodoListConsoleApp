@@ -1,0 +1,14 @@
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\bin\Debug\net8.0\Todo.exe
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\bin\Debug\net8.0\Todo.deps.json
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\bin\Debug\net8.0\Todo.runtimeconfig.json
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\bin\Debug\net8.0\Todo.dll
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\bin\Debug\net8.0\Todo.pdb
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\Todo.AssemblyInfoInputs.cache
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\Todo.AssemblyInfo.cs
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\Todo.dll
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\refint\Todo.dll
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\Todo.pdb
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\Todo.genruntimeconfig.cache
+C:\Users\Youssef Amr\Desktop\Projects\Todo\Todo\obj\Debug\net8.0\ref\Todo.dll
